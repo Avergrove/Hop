@@ -5,3 +5,5 @@ Platforms are represented by bars, and holes are represented by spaces. The play
 Press F to do a short hop, to jump one unit forward, J to do a long hop, to jump two units forward!
 
 The game is currently in Minimum Viable Produc mode, possible improvements are UI and look and feel, and bug fixes! (And probably decoupling the code!)
+
+(Also probably move away from Swing 🏌️)
