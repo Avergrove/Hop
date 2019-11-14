@@ -28,6 +28,9 @@ public class GameView implements RenderEngine {
         panel.getInputMap().put(KeyStroke.getKeyStroke('j'), "jAction");
         panel.getActionMap().put("jAction", new KeyAction('j'));
 
+
+
+
         panel.requestFocusInWindow();
     }
 
